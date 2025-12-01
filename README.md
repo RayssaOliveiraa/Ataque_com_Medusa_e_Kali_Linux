@@ -1,8 +1,3 @@
-Aqui está um **README.md profissional, completo e pronto para usar no GitHub**, totalmente baseado no desafio que você descreveu.
-Se quiser, posso personalizar com seu nome, adicionar imagens, GIFs, sumário automático ou badges.
-
----
-
 # 🛡️ Projeto: Ataques de Força Bruta com Kali Linux e Medusa
 
 Este repositório contém a implementação e documentação completa do desafio proposto na DIO, envolvendo a utilização do **Kali Linux**, da ferramenta **Medusa** e de ambientes vulneráveis como **Metasploitable 2** e **DVWA**.
@@ -178,13 +173,5 @@ Este desafio permitiu compreender de forma prática como ataques de força bruta
 
 Toda a jornada foi documentada aqui para fins de aprendizado e portfólio técnico.
 
----
-
-Se quiser, posso gerar também:
-
-✔ versão em inglês
-✔ README com emojis minimalistas
-✔ README com badges, GIFS e sumário automático
-✔ README mais curto ou mais longo
 
 É só pedir!
